@@ -1,0 +1,7 @@
+Welcome to a visual journey through the fascinating world of Pisano periods. This gallery presents the Pisano Series for moduli 3 through 520, each rendered as a unique graphical composition. Every series is periodic and ends with a Max-1-0 triplet. The images reveal the rhythmic structures hidden in modular Fibonacci sequences — patterns of repetition, symmetry, and unexpected beauty that emerge when mathematics meets art.
+
+All pictures in this collection were created with my custom software “Pisano Visualizer”, programmed in Python in November 2025. The software translates the abstract rules of modular arithmetic into vivid visualizations, highlighting sections, mirrored halves, and the interplay of order and variation. Each modulus generates its own distinctive “fingerprint,” a sequence that closes into a cycle yet opens into a new aesthetic dimension.
+
+This gallery is not only a mathematical exploration but also an artistic one: the Pisano Series become visual scores, resonating with symmetry and rhythm much like music. By scrolling through moduli 3 to 520, you can witness how complexity grows, how mirrors appear, and how the Fibonacci spirit persists across modular landscapes.
+
+Enjoy discovering the harmony of logic and beauty in the Pisano Series.
