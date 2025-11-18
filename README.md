@@ -1,6 +1,6 @@
 # Fibonacci-Pisano Showroom
 
-An interactive Python visualizer for the Pisano Series (modular Fibonacci), with gallery-ready exports and an informational overlay. Use it to explore moduli, autosave images/scores/text, and prepare assets for SmugMug.
+An interactive Python visualizer for the Pisano Series (modular Fibonacci), with gallery-ready exports and an informational overlay. Use it to explore moduli, autosave images/scores/text, and prepare assets for SmugMug like this one: https://stammet-petit.smugmug.com/Arthurs-Creations/Research/Pisano-Visualizer
 
 ## Features
 
